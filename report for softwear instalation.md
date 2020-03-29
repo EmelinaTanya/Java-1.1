@@ -1,0 +1,40 @@
+# Отчёт о тестировании Инструкции по установке OpenJDK11. #
+
+## Краткое описание 
+<28.03.2020> - <28.03.2020> было проведено  функциональное тестирование инструкции по установке OpenJDK11.
+
+На тестирование затрачено: 13:40-17:15.
+ 
+**В результате тестирования выявлены следующие дефекты:** 
+
+<https://github.com/EmelinaTanya/Java-1.1/issues/1>
+
+## Описание процесса тестирования
+
+**В процессе тестирования использовались следующие артефакты:**
+
+<Тесткейс 1.1: https://docs.google.com/spreadsheets/d/13TimPKF2_D27Z2qSbJY6L80w4c_XcTALmqJ2032RU9c/edit?usp=sharing>
+
+
+**В качестве тестовых данных использовались данные:**
+1. https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md
+2. https://adoptopenjdk.net/
+
+
+**Тестирование производилось в следующем окружении:**
+
+версия и разрядность ОС: Windows 10, 64-разрядная OC
+версия Java - openjdk version "11.0.6" 2020-01-14
+
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
