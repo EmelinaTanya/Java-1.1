@@ -26,15 +26,4 @@
 версия и разрядность ОС: Windows 10, 64-разрядная OC
 версия Java - openjdk version "11.0.6" 2020-01-14
 
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
